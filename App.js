@@ -176,6 +176,7 @@ const styles = StyleSheet.create({
   },
   button: {
     flex: 1, // Chiếm 1 phần không gian
+    marginRight:10
   },
   footer: {
     flex: 1,
@@ -191,7 +192,7 @@ const styles = StyleSheet.create({
   button1: {
     backgroundColor: "#F31111",
     padding: 10,
-    width: 100,
+    width: 80,
   },
   buttonText1: {
     color: "white",
